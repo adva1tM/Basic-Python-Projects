@@ -1,3 +1,6 @@
+
+#Author - Advait More. Social Media; Twitter - @Adva1tMore, Reddit - u/north_2006
+
 import random #Random module is an built-in module used to generate psedu-random numbers. 
 
 def GameWin(Computer, You): #Def declares a function "GameWin" 
